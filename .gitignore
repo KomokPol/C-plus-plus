@@ -1,0 +1,56 @@
+# Compiled object files & precompiled headers
+*.o
+*.obj
+*.gch
+*.pch
+
+# Compiled binaries / libraries
+*.exe
+*.out
+*.app
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+
+# Build output directories
+output/
+build/
+bin/
+obj/
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Windows shortcuts & junk
+*.lnk
+Thumbs.db
+desktop.ini
+
+# IDE / editor
+.vs/
+.vscode/
+.idea/
+*.swp
+
+# Linux ELF executables (no extension) produced by g++ in this repo
+BDZ/main
+EDZ_3/mainsum
+EDZ_4/maiiin
+EDZ_4/mainrational
+EDZ_4/qwerty
+EDZ_7/A
+EDZ_7/B
+EDZ_7/C
+EDZ_7/D
+EDZ_7/E
+EDZ_7/F
+EDZ_7/G
+EDZ_7/H
+EDZ_7/I
+EDZ_7/J
